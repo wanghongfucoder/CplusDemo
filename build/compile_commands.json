@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/wanghongfu/code/CplusDemo/build",
+  "command": "/usr/bin/g++-7   -I/home/wanghongfu/code/CplusDemo/./include  -g   -std=gnu++11 -o CMakeFiles/CplusDemo.dir/main.cpp.o -c /home/wanghongfu/code/CplusDemo/main.cpp",
+  "file": "/home/wanghongfu/code/CplusDemo/main.cpp"
+}
+]

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libMysrc.a  CMakeFiles/Mysrc.dir/grammar/struct1.cpp.o
+/usr/bin/ranlib libMysrc.a
