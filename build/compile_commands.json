@@ -1,7 +1,12 @@
 [
 {
-  "directory": "/home/wanghongfu/code/CplusDemo/build",
-  "command": "/usr/bin/g++-7   -I/home/wanghongfu/code/CplusDemo/./include  -g   -std=gnu++11 -o CMakeFiles/CplusDemo.dir/main.cpp.o -c /home/wanghongfu/code/CplusDemo/main.cpp",
-  "file": "/home/wanghongfu/code/CplusDemo/main.cpp"
+  "directory": "/Users/wanghongfu/Public/code/CplusDemo/build",
+  "command": "/usr/bin/clang++   -I/Users/wanghongfu/Public/code/CplusDemo/./include  -g   -std=gnu++11 -o CMakeFiles/CplusDemo.dir/main.cpp.o -c /Users/wanghongfu/Public/code/CplusDemo/main.cpp",
+  "file": "/Users/wanghongfu/Public/code/CplusDemo/main.cpp"
+},
+{
+  "directory": "/Users/wanghongfu/Public/code/CplusDemo/build/src",
+  "command": "/usr/bin/clang++   -I/Users/wanghongfu/Public/code/CplusDemo/./include -I/Users/wanghongfu/Public/code/CplusDemo/include  -g   -std=gnu++11 -o CMakeFiles/Mysrc.dir/grammar/struct1.cpp.o -c /Users/wanghongfu/Public/code/CplusDemo/src/grammar/struct1.cpp",
+  "file": "/Users/wanghongfu/Public/code/CplusDemo/src/grammar/struct1.cpp"
 }
 ]

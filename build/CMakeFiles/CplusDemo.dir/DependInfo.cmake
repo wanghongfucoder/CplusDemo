@@ -4,9 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/wanghongfu/code/CplusDemo/main.cpp" "/home/wanghongfu/code/CplusDemo/build/CMakeFiles/CplusDemo.dir/main.cpp.o"
+  "/Users/wanghongfu/Public/code/CplusDemo/main.cpp" "/Users/wanghongfu/Public/code/CplusDemo/build/CMakeFiles/CplusDemo.dir/main.cpp.o"
   )
-set(CMAKE_CXX_COMPILER_ID "GNU")
+set(CMAKE_CXX_COMPILER_ID "AppleClang")
 
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH
@@ -15,6 +15,7 @@ set(CMAKE_CXX_TARGET_INCLUDE_PATH
 
 # Targets to which this target links.
 set(CMAKE_TARGET_LINKED_INFO_FILES
+  "/Users/wanghongfu/Public/code/CplusDemo/build/src/CMakeFiles/Mysrc.dir/DependInfo.cmake"
   )
 
 # Fortran module output directory.

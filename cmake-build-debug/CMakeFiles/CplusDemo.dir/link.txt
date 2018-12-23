@@ -1,1 +1,0 @@
-/etc/alternatives/c++  -g   CMakeFiles/CplusDemo.dir/main.cpp.o  -o CplusDemo  -L/home/wanghongfu/code/CplusDemo/./lib -Wl,-rpath,/home/wanghongfu/code/CplusDemo/./lib -lpthread -lgtest -lgmock src/libMysrc.a 
