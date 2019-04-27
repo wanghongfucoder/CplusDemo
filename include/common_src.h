@@ -8,3 +8,5 @@
 #include<thread>
 #include<valarray>
 #include"ctrl.h"
+
+using namespace std;

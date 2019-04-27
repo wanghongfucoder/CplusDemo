@@ -30,9 +30,13 @@ ctrl.h
 
 .././include/ctrl.h
 
-.././include/grammar/grammar.h
+.././include/grammar/Mystack.h
 common_src.h
 .././include/grammar/common_src.h
+
+.././include/grammar/grammar.h
+Mystack.h
+.././include/grammar/Mystack.h
 
 .././include/gtest/gtest-death-test.h
 gtest/internal/gtest-death-test-internal.h

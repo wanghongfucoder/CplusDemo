@@ -3,6 +3,7 @@
 
 CMakeFiles/CplusDemo.dir/main.cpp.o: .././include/common_src.h
 CMakeFiles/CplusDemo.dir/main.cpp.o: .././include/ctrl.h
+CMakeFiles/CplusDemo.dir/main.cpp.o: .././include/grammar/Mystack.h
 CMakeFiles/CplusDemo.dir/main.cpp.o: .././include/grammar/grammar.h
 CMakeFiles/CplusDemo.dir/main.cpp.o: .././include/gtest/gtest-death-test.h
 CMakeFiles/CplusDemo.dir/main.cpp.o: .././include/gtest/gtest-matchers.h
