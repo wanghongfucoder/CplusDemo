@@ -1,12 +1,12 @@
 [
 {
-  "directory": "/Users/wanghongfu/Public/code/CplusDemo/build",
-  "command": "/usr/bin/clang++   -I/Users/wanghongfu/Public/code/CplusDemo/./include  -g   -std=gnu++11 -o CMakeFiles/CplusDemo.dir/main.cpp.o -c /Users/wanghongfu/Public/code/CplusDemo/main.cpp",
-  "file": "/Users/wanghongfu/Public/code/CplusDemo/main.cpp"
+  "directory": "/root/code/CplusDemo/build",
+  "command": "/bin/g++-8   -I/root/code/CplusDemo/./include  -g   -std=gnu++11 -o CMakeFiles/CplusDemo.dir/main.cpp.o -c /root/code/CplusDemo/main.cpp",
+  "file": "/root/code/CplusDemo/main.cpp"
 },
 {
-  "directory": "/Users/wanghongfu/Public/code/CplusDemo/build/src",
-  "command": "/usr/bin/clang++   -I/Users/wanghongfu/Public/code/CplusDemo/./include -I/Users/wanghongfu/Public/code/CplusDemo/include  -g   -std=gnu++11 -o CMakeFiles/Mysrc.dir/grammar/struct1.cpp.o -c /Users/wanghongfu/Public/code/CplusDemo/src/grammar/struct1.cpp",
-  "file": "/Users/wanghongfu/Public/code/CplusDemo/src/grammar/struct1.cpp"
+  "directory": "/root/code/CplusDemo/build/src",
+  "command": "/bin/g++-8   -I/root/code/CplusDemo/./include -I/root/code/CplusDemo/include  -g   -std=gnu++11 -o CMakeFiles/Mysrc.dir/grammar/struct1.cpp.o -c /root/code/CplusDemo/src/grammar/struct1.cpp",
+  "file": "/root/code/CplusDemo/src/grammar/struct1.cpp"
 }
 ]

@@ -1,6 +1,6 @@
-/Users/wanghongfu/Public/code/CplusDemo/build/CMakeFiles/rebuild_cache.dir
-/Users/wanghongfu/Public/code/CplusDemo/build/CMakeFiles/edit_cache.dir
-/Users/wanghongfu/Public/code/CplusDemo/build/CMakeFiles/CplusDemo.dir
-/Users/wanghongfu/Public/code/CplusDemo/build/src/CMakeFiles/rebuild_cache.dir
-/Users/wanghongfu/Public/code/CplusDemo/build/src/CMakeFiles/edit_cache.dir
-/Users/wanghongfu/Public/code/CplusDemo/build/src/CMakeFiles/Mysrc.dir
+/root/code/CplusDemo/build/CMakeFiles/rebuild_cache.dir
+/root/code/CplusDemo/build/CMakeFiles/CplusDemo.dir
+/root/code/CplusDemo/build/CMakeFiles/edit_cache.dir
+/root/code/CplusDemo/build/src/CMakeFiles/rebuild_cache.dir
+/root/code/CplusDemo/build/src/CMakeFiles/Mysrc.dir
+/root/code/CplusDemo/build/src/CMakeFiles/edit_cache.dir

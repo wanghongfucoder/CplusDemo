@@ -24,4 +24,6 @@ int unitteest(int argc, char **argv) {
 
 void dir_build() {
 
+    printf("wanghongfu\n");
+
 }

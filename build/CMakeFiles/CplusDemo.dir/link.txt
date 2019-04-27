@@ -1,1 +1,1 @@
-/usr/bin/clang++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/CplusDemo.dir/main.cpp.o  -o CplusDemo -lpthread -lgtest -lgmock src/libMysrc.a 
+/bin/g++-8  -g   CMakeFiles/CplusDemo.dir/main.cpp.o  -o CplusDemo  -L/root/code/CplusDemo/./lib -Wl,-rpath,/root/code/CplusDemo/./lib -lpthread -lgtest -lemock src/libMysrc.a 
